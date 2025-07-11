@@ -1,0 +1,14 @@
+title: My Tech Blog
+author: Your Name
+email: your.email@example.com
+description: A blog about PyPI, Java, and self-hosting
+baseurl: "" # 如果是 username.github.io，留空
+url: "https://username.github.io" # 替换为你的域名或 GitHub Pages URL
+theme: minima # 默认主题，可替换为其他（如 jekyll-theme-chirpy）
+plugins:
+  - jekyll-feed # 生成 RSS 订阅
+  - jekyll-seo-tag # SEO 优化
+markdown: kramdown
+kramdown:
+  input: GFM # 支持 GitHub Flavored Markdown
+  syntax_highlighter: rouge # 代码高亮
