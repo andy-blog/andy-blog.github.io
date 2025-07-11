@@ -8,3 +8,4 @@ Welcome to my blog! This is a sample post with **Markdown** and code:
 
 ```java
 System.out.println("Hello, GitHub Pages!");
+```
